@@ -1,0 +1,96 @@
+@font-face {
+    font-family:roboto;
+    src: url(../fuentes/Roboto-Light.ttf);
+}
+@font-face {
+    font-family:roboto1;
+    src: url(../fuentes/Roboto-Medium.ttf);
+}
+.textoDerecha{
+    text-align: right;
+}
+.logoBlanco{
+    height: 26px;
+    width: 86px;
+    margin-left: 10px;
+}
+
+
+
+
+.row{
+    padding-top: 18px;
+    padding-left: 20px;
+    padding-right: 11px;
+}
+.derecha{
+    font-family: roboto;
+    text-align:right ;
+    color: #707070;
+    font-size: 16px;
+}
+.color{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: roboto;
+    padding-left: 11px;
+    padding-right:24px ;
+    color: #28A745;
+}
+.card-title{
+    color:#212529;
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.pequeño{
+    font-size: 16px;
+    font-family: roboto;
+    color: #707070;
+}
+
+.ubicacion{
+    font-size: 13px;
+    font-family: roboto;
+    color: #707070;
+}
+.formulario {
+    
+    height:241px ;
+    font-family: roboto;
+    background-color: #28A745;
+    text-align: center;
+    
+}
+.centro{
+    font-size: 21px;
+    color: #FFFFFF;
+    font-family: roboto1;
+    text-align: center;
+}
+.formpadding{
+    padding-left: 21.5px;
+    padding-right: 20.5px;
+}
+button.btn.btn-light{
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+}
+
+
+.footer
+{
+    height: 115px;
+    font-size: 16px;
+    font-family: roboto;
+    text-align: center;
+}
+.footer img{
+    padding-top: 24px;
+    width: 82px;
+    
+}
+.espacioForm{
+    padding-bottom: 47px;
+}
